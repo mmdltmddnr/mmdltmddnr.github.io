@@ -1,6 +1,3 @@
----
-title: "Welcome to Jekyll!"
----
 # Blog Post
 ## My first Blog Post
 * Post1
