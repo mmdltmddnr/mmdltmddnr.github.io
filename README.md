@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 승욱이의 블로그
 
 You can use the [editor on GitHub](https://github.com/mmdltmddnr/mmdltmddnr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
